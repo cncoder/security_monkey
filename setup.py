@@ -57,7 +57,7 @@ setup(
         'bcrypt==3.1.2',
         'gunicorn==18.0',
         'cryptography>=1.8.1',
-        'boto3>=1.6.3',
+        'boto3>=1.4.2',
         'botocore>=1.4.81',
         'dpath==1.3.2',
         'pyyaml==3.11',
